@@ -11,6 +11,8 @@ Pet-projects:
    Here i write my whole path and tools that i learned
 - [devops-toolbox](https://github.com/zamasulolmeme123/devops-toolbox)
     Small lab with Linux, bash scripts and Docker images to train everyday DevOps tasks.
+- [СI/CD GitLab](https://gitlab.com/zamasulolmeme123/taskurlproject)
+    full CI/CD small app in browser with Docker images, python and CI/CD.
   
 📫 Contacts
 
