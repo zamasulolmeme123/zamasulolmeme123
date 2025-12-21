@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- here is my GitLab profile (i am working here with CI/CD): https://gitlab.com/zamasulolmeme123 
 <!--
 **zamasulolmeme123/zamasulolmeme123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
