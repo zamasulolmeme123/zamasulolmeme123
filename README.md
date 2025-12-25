@@ -9,11 +9,10 @@ Pet-projects:
    Microservice app with Nginx, FastAPI, PostgreSQL, worker and Docker compose, CI/CD (GitHub Actions and smoke tests), Work with real cloud server VPS.
 - [DevOps-journey](https://github.com/zamasulolmeme123/DevOps-journey)
    Here i write my whole path and tools that i learned
-- [devops-toolbox](https://github.com/zamasulolmeme123/devops-toolbox)
-    Small lab with Linux, bash scripts and Docker images to train everyday DevOps tasks.
 - [СI/CD GitLab](https://gitlab.com/zamasulolmeme123/taskurlproject)
     full CI/CD small app in browser with Docker images, python and CI/CD.
-  
+- [devops-toolbox](https://github.com/zamasulolmeme123/devops-toolbox)
+    Small lab with Linux, bash scripts and Docker images to train everyday DevOps tasks.
 📫 Contacts
 
 - Telegram: [@paapapz](https://t.me/paapapz)
