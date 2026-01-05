@@ -1,33 +1,32 @@
-## Hi there 👋
+<p align="center">
+  <h1 align="center">Bezoyan Roman (zamasulolmeme123) DevOps Engineer 🖖</h1>
+</p>
 
-- here is my GitLab profile (i am working here with CI/CD): https://gitlab.com/zamasulolmeme123
+<p align="center">
+  <a href="https://t.me/papaapz" target="_blank" rel="noopener">
+    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-@paapapz-26A5E4?logo=telegram&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
 
-Learning DevOps by building real projects. Actively looking for Intern/Junior DevOps opportunities.
+<p align="center">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" />
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square" />
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" />
+  <img alt="Helm" src="https://img.shields.io/badge/Helm-0F2080?logo=helm&logoColor=white&style=flat-square" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
+</p>
 
-Pet-projects:
-- [Task-URL-Platform](https://github.com/zamasulolmeme123/Task-URL-Platform)
-   Microservice app with Nginx, FastAPI, PostgreSQL, worker and Docker compose, CI/CD (GitHub Actions and smoke tests), Work with real cloud server VPS.
-- [DevOps-journey](https://github.com/zamasulolmeme123/DevOps-journey)
-   Here i write my whole path and tools that i learned
-- [СI/CD GitLab](https://gitlab.com/zamasulolmeme123/taskurlproject)
-    full CI/CD small app in browser with Docker images, python and CI/CD.
-- [devops-toolbox](https://github.com/zamasulolmeme123/devops-toolbox)
-    Small lab with Linux, bash scripts and Docker images to train everyday DevOps tasks.
-  
-📫 Contacts
+---
 
+<p align="center">
+  I'm a DevOps engineer actively looking for work. I'm actively learning about DevOps methodology and tools like K8ss and others.
+  <br>
+  Here you can find my projects.
+</p>
+---
+
+## Contacts:
 - Telegram: [@paapapz](https://t.me/paapapz)
-<!--
-**zamasulolmeme123/zamasulolmeme123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
