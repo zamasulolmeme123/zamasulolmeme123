@@ -16,17 +16,15 @@
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square" />
   <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=flat-square" />
   <img alt="Helm" src="https://img.shields.io/badge/Helm-0F2080?logo=helm&logoColor=white&style=flat-square" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square" />
   <img alt="Argo CD" src="https://img.shields.io/badge/Argo%20CD-FE4C3C?logo=argo&logoColor=white&style=flat-square" />
   <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white&style=flat-square" />
   <img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white&style=flat-square" />
-  <img alt="VPS" src="https://img.shields.io/badge/VPS-Linux_Server-555555?logo=linux&logoColor=white&style=flat-square" />
 </p>
 
 ---
 
 <p>
-  I'm a DevOps engineer actively looking for work. I'm actively learning about DevOps methodology and tools like K8ss and others.
+  I'm a DevOps engineer actively looking for work. I'm actively learning about DevOps methodology and tools like K8s and others.
   <br>
   Here you can find my projects.
 </p>
