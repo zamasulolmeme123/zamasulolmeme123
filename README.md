@@ -1,5 +1,5 @@
-<p align="center">
-  <h1 align="center">Bezoyan Roman (zamasulolmeme123) DevOps Engineer 🖖</h1>
+<p>
+  <h1>Bezoyan Roman (zamasulolmeme123) DevOps Engineer 🖖</h1>
 </p>
 
 <p align="center">
@@ -21,12 +21,12 @@
 
 ---
 
-<p align="center">
+<p>
   I'm a DevOps engineer actively looking for work. I'm actively learning about DevOps methodology and tools like K8ss and others.
   <br>
   Here you can find my projects.
 </p>
----
+
 
 ## Contacts:
 - Telegram: [@paapapz](https://t.me/paapapz)
