@@ -33,5 +33,9 @@ DevOps engineer
 FastAPI + Postgres + Docker Compose + GitHub Actions CI/CD
 
 
+**[DevOps-journey](https://github.com/zamasulolmeme123/DevOps-journey)**
+Weekly progress, Kubernetes clusters, Docker, Linux, Python, Monitoring.
+
+
 ## Contacts:
 - Telegram: @paapapz
