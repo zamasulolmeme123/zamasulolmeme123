@@ -27,7 +27,7 @@
   I'm a DevOps engineer. I'm learning about DevOps methodology and tools like K8s and others.
   <br>
   My projects:
-  [Task-URL-Platform](https://github.com/zamasulolmeme123/Task-URL-Platform)
+  **[Task-URL-Platform](https://github.com/zamasulolmeme123/Task-URL-Platform)** 
 </p>
 
 
