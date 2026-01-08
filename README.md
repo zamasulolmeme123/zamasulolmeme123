@@ -29,12 +29,11 @@ DevOps engineer
 **Projects:**
 
 
-**[Task-URL-Platform](https://github.com/zamasulolmeme123/Task-URL-Platform)**  
+**[Task-URL-Platform](https://github.com/zamasulolmeme123/Task-URL-Platform)**   
 FastAPI + Postgres + Docker Compose + GitHub Actions CI/CD
 
 
-**[DevOps-journey](https://github.com/zamasulolmeme123/DevOps-journey)**
-
+**[DevOps-journey](https://github.com/zamasulolmeme123/DevOps-journey)**   
 Weekly progress, Kubernetes clusters, Docker, Linux, Python, Monitoring.
 
 
