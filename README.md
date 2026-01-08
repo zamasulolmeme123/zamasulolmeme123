@@ -24,9 +24,10 @@
 ---
 
 <p>
-  I'm a DevOps engineer actively looking for work. I'm actively learning about DevOps methodology and tools like K8s and others.
+  I'm a DevOps engineer. I'm learning about DevOps methodology and tools like K8s and others.
   <br>
-  Here you can find my projects.
+  My projects:
+  [Task-URL-Platform](https://github.com/zamasulolmeme123/Task-URL-Platform)
 </p>
 
 
