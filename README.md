@@ -38,4 +38,4 @@ Weekly progress, Kubernetes clusters, Docker, Linux, Python, Monitoring.
 
 
 ## Contacts:
-- Telegram: @paapapz
+- Telegram: @zamasulolmeme123
