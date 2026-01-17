@@ -37,5 +37,10 @@ FastAPI + Postgres + Docker Compose + GitHub Actions CI/CD
 Weekly progress, Kubernetes clusters, Docker, Linux, Python, Monitoring.
 
 
+**[kubeadm-cluster:](https://github.com/zamasulolmeme123/DevOps-journey/k8s/02-k8s-kubeadm)**   
+Monitoring(Grafana, Loki, Prometheus), Apps(Nginx), k8s cluster.
+
+
+
 ## Contacts:
 - Telegram: @zamasulolmeme123
