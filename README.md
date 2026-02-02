@@ -43,4 +43,4 @@ Monitoring(Grafana, Loki, Prometheus), Apps(Nginx), k8s cluster.
 
 
 ## Contacts:
-- Telegram: @zamasulolmeme123
+- Telegram: @helloandgolang
