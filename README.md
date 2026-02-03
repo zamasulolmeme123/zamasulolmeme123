@@ -25,7 +25,7 @@
 
 DevOps engineer
 
-https://github.com/pehlicd/pehlicd/blob/main/img/gopher_coffee.gif
+<img alt="Kubernetes" src="https://github.com/pehlicd/pehlicd/blob/main/img/gopher_coffee.gif" />
 
 **Projects:**
 
