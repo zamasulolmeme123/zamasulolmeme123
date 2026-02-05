@@ -1,16 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 100">
-  <style>
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-    .typewriter {
-      animation: typing 3s steps(40) infinite;
-    }
-  </style>
-  <text class="typewriter">DevOps | Kubernetes | Go</text>
-</svg>
-
 <p>
 <h1>Bezoyan Roman (zamasulolmeme123) DevOps Engineer 🖖</h1>
 </p>
@@ -58,11 +45,3 @@ Monitoring(Grafana, Loki, Prometheus), Apps(Nginx), k8s cluster.
 
 ## Contacts:
 - Telegram: @helloandgolang
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zamasulolmeme123&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zamasulolmeme123&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zamasulolmeme123&theme=tokyonight)
