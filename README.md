@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BLACK_HOLE_GIF_URL" width="100%" alt="Black hole banner" />
+  <img src="https://motionbgs.com/media/7010/gravitys-dark-abyss.960x540.mp4" width="100%" alt="Black hole banner" />
 </div>
 
 <h1 align="center">Bezoyan Roman</h1>
