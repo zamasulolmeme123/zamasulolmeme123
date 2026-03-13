@@ -1,5 +1,5 @@
 <p>
-<h1>Bezoyan Roman (zamasulolmeme123) DevOps/SRE Engineer 🖖</h1>
+<h1>DevOps/SRE Engineer 🖖</h1>
 </p>
 
 
