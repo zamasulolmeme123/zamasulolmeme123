@@ -43,26 +43,6 @@ I work with a systems mindset and I like environments where engineering quality,
 
 ---
 
-## Featured projects
-
-### [Task-URL-Platform](https://github.com/zamasulolmeme123/Task-URL-Platform)
-A small service platform with **FastAPI, Nginx, PostgreSQL, worker, Docker Compose and CI**.  
-Built to practice service interaction, delivery flow, and backend/infrastructure integration.
-
-### [devops_lab](https://github.com/zamasulolmeme123/devops_lab)
-Hands-on practice with **Kubernetes, Grafana, Prometheus, CI/CD and other DevOps tools**.
-
-### [BIG](https://github.com/zamasulolmeme123/BIG)
-Infrastructure-focused repository with **cluster-related practice**, including tools like **Kubespray, ArgoCD, Vault** and surrounding platform components.
-
-### [DevOps-journey](https://github.com/zamasulolmeme123/DevOps-journey)
-My long-term learning and engineering growth path in **DevOps / SRE / platform tooling**.
-
-### [devops-toolbox](https://github.com/zamasulolmeme123/devops-toolbox)
-Practice repository for **Linux, Bash, Docker and useful day-to-day engineering tasks**.
-
----
-
 ## Current focus
 
 - Deepening **Go** for backend tools and infrastructure automation
