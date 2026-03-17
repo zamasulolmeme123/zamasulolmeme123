@@ -3,7 +3,7 @@
 <h3 align="center">DevOps / SRE Engineer</h3>
 
 <p align="center">
-  Linux • Kubernetes • Docker • IaC • GitOps • CI/CD • Go • Python • Observability
+  Linux • Kubernetes • Docker • SRE • IaC (Terraform, Ansible) • GitOps • CI/CD • Go • Observability
 </p>
 
 <p align="center">
@@ -31,18 +31,6 @@ I work with a systems mindset and I like environments where engineering quality,
 
 ---
 
-## What I’m working with
-
-- **OS / Infra:** Linux, networking, system administration
-- **Containers / Orchestration:** Docker, Kubernetes
-- **DevOps / Platform:** IaC, GitOps, CI/CD
-- **Programming:** Go, Python, Bash
-- **Web / Backend:** REST API, Nginx, PostgreSQL
-- **Reliability:** monitoring, logs, metrics, troubleshooting
-- **Workflow:** process building, teamwork, end-to-end ownership
-
----
-
 ## Current focus
 
 - Deepening **Go** for backend tools and infrastructure automation
@@ -54,12 +42,12 @@ I work with a systems mindset and I like environments where engineering quality,
 
 ## Contacts
 
-- **Telegram:** [@helloandgolang](https://t.me/helloandgolang)
+- **Telegram:** [@srekernel](https://t.me/srekernel)
 - **Codeberg:** [codeberg.org/zamasulolmeme123](https://codeberg.org/zamasulolmeme123)
 - **GitLab:** [gitlab.com/zamasulolmeme123](https://gitlab.com/zamasulolmeme123)
 
 ---
 
 <p align="center">
-  <i>Not looking for a random line in a resume — building a real engineering trajectory.</i>
+  <i>Not looking for a real projects, not line in resume</i>
 </p>
