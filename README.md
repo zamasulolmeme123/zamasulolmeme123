@@ -21,6 +21,7 @@ I started in IT in the early 2020s with programming and building websites **end-
 Now my focus is on **infrastructure, automation, observability, reliability, and backend engineering**.  
 I’m especially interested in:
 
+- real programming (algorithms, math, etc..)
 - building and improving delivery processes
 - reducing manual operations through automation
 - understanding systems deeply, not superficially
@@ -49,5 +50,5 @@ I work with a systems mindset and I like environments where engineering quality,
 ---
 
 <p align="center">
-  <i>Not looking for a real projects, not line in resume</i>
+  <i>Looking for a real projects, not line in resume</i>
 </p>
